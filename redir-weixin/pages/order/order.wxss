@@ -1,0 +1,113 @@
+
+.content.data-v-93207a4f {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.header.data-v-93207a4f {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120rpx;
+    padding: 40rpx;
+    background: #ffffff;
+    box-shadow: 0 2rpx 4rpx rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.menu-item.data-v-93207a4f {
+    background: #ffffff;
+    border-radius: 10rpx;
+    margin-right: 10rpx;
+    font-size: 28rpx;
+    padding: 10rpx;
+    color: #292929;
+    transition: 0.3s;
+}
+.active.data-v-93207a4f {
+    background: #068cfa;
+    font-weight: 500;
+    color: #ffffff;
+}
+.body.data-v-93207a4f {
+    width: 100%;
+    margin-top: 120rpx;
+    padding: 40rpx;
+    display: flex;
+    flex-direction: column;
+}
+.empty-order-card.data-v-93207a4f {
+    position: fixed;
+    top: 35%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 28rpx;
+    color: #3c3c3c;
+}
+.empty-order-card image.data-v-93207a4f {
+    width: 171rpx;
+    height: 200rpx;
+    margin-bottom: 40rpx;
+}
+.order-card.data-v-93207a4f {
+    width: 100%;
+    background: #ffffff;
+    border-radius: 24rpx;
+    box-shadow: 0 2rpx 4rpx rgba(0, 0, 0, 0.2);
+    margin: 20rpx 0;
+    padding: 30rpx;
+    display: flex;
+    flex-direction: column;
+}
+.hr.data-v-93207a4f {
+    height: 2rpx;
+    margin: 20rpx 0;
+    background: #c3c3c3;
+}
+.card-title.data-v-93207a4f {
+    width: 100%;
+    font-size: 32rpx;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20rpx;
+}
+.card-title image.data-v-93207a4f {
+    width: 70rpx;
+    height: 70rpx;
+    border-radius: 12rpx;
+    margin-right: 20rpx;
+}
+.text-row.data-v-93207a4f {
+    display: flex;
+    justify-content: space-between;
+    color: #404040;
+    font-size: 27rpx;
+    margin: 10rpx 0;
+}
+.buttons.data-v-93207a4f {
+    display: flex;
+    justify-content: flex-end;
+}
+.primary.data-v-93207a4f {
+    background: #068cfa;
+    color: #ffffff;
+    font-size: 24rpx;
+}
+button.data-v-93207a4f {
+    background-color: #ffffff;
+    margin: 20rpx 0;
+    border-radius: 12rpx;
+    font-size: 28rpx;
+    transition: 0.3s;
+    box-shadow: 0rpx 4rpx 8rpx rgba(0.1, 0.1, 0.1, 0.1);
+}
+button.data-v-93207a4f:active {
+    transform: scale(95%);
+    box-shadow: 0rpx 4rpx 8rpx rgba(0.2, 0.2, 0.2, 0.2);
+}

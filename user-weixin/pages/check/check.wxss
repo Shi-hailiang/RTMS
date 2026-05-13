@@ -1,0 +1,109 @@
+
+.card.data-v-d5c0dd20 {
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 20rpx;
+    padding: 0rpx 0 30rpx 0;
+    border-radius: 24rpx;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    flex-direction: column;
+}
+.title.data-v-d5c0dd20 {
+    width: 100%;
+    height: 60rpx;
+    border-bottom: 1px solid #cccccc;
+    display: flex;
+    align-items: center;
+    padding: 40rpx 0 40rpx 40rpx;
+    font-size: 32rpx;
+}
+.content.data-v-d5c0dd20 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20rpx 0 20rpx 40rpx;
+}
+.addresses.data-v-d5c0dd20 {
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+    display: none;
+    padding: 20rpx 0 20rpx 40rpx;
+    transition: 0.3s;
+}
+.address.data-v-d5c0dd20 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 60rpx;
+}
+.open.data-v-d5c0dd20 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.order-product-content.data-v-d5c0dd20 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20rpx 0 20rpx 0;
+}
+.order-product.data-v-d5c0dd20 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+    height: 120rpx;
+    padding: 40rpx 0;
+}
+.name.data-v-d5c0dd20 {
+    font-size: 28rpx;
+    margin-left: 40rpx;
+}
+.specification.data-v-d5c0dd20 {
+    font-size: 24rpx;
+    color: #757575;
+    margin-left: 40rpx;
+}
+.price.data-v-d5c0dd20 {
+    margin-left: 24rpx;
+    font-size: 24rpx;
+    color: #eb8388;
+}
+.price-cal.data-v-d5c0dd20 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 40rpx 40rpx 20rpx 0;
+}
+.package-price.data-v-d5c0dd20 {
+    margin-left: 36rpx;
+    font-size: 24rpx;
+    color: #757575;
+}
+.delivery-price.data-v-d5c0dd20 {
+    margin-left: 36rpx;
+    font-size: 24rpx;
+    color: #757575;
+}
+.total-price.data-v-d5c0dd20 {
+    margin-left: 36rpx;
+    font-size: 28rpx;
+    color: #eb8388;
+}
+.content input.data-v-d5c0dd20 {
+    border: none;
+    outline: none;
+}
+button.data-v-d5c0dd20 {
+    width: 96%;
+    margin-left: 2%;
+}

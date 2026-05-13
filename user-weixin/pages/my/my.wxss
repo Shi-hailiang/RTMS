@@ -1,0 +1,75 @@
+
+.my.data-v-2f1ef635 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.card.data-v-2f1ef635 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    background: #ffffff;
+    border-radius: 24rpx;
+    margin-top: 20rpx;
+    padding: 40rpx;
+    box-shadow: 0 2rpx 4rpx rgba(0, 0, 0, 0.1);
+}
+.avatar.data-v-2f1ef635 {
+    width: 120rpx;
+    height: 120rpx;
+    border-radius: 50%;
+}
+.avatar image.data-v-2f1ef635 {
+    width: 120rpx;
+    height: 120rpx;
+    border-radius: 50%;
+}
+.basic-information.data-v-2f1ef635 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40rpx;
+}
+.nickname.data-v-2f1ef635 {
+    font-size: 32rpx;
+}
+.phone.data-v-2f1ef635 {
+    font-size: 24rpx;
+    color: #7c7c7c;
+}
+.money.data-v-2f1ef635 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+.money-btns.data-v-2f1ef635 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-item.data-v-2f1ef635 {
+    flex-direction: row;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+.menu-icon.data-v-2f1ef635 {
+    font-size: 36rpx;
+    margin-right: 20rpx;
+}
+.menu-text.data-v-2f1ef635 {
+    flex: 1;
+    font-size: 30rpx;
+    color: #333;
+}
+.menu-arrow.data-v-2f1ef635 {
+    font-size: 28rpx;
+    color: #999;
+}
+button.data-v-2f1ef635 {
+    width: 90%;
+    margin: 40rpx 0;
+}

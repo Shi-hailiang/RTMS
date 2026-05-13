@@ -1,0 +1,30 @@
+
+.menu.data-v-93207a4f {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100rpx;
+    background: #ffffff;
+    box-shadow: 0rpx 2rpx 4rpx rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 60rpx;
+    z-index: 1000;
+}
+.menu-item.data-v-93207a4f {
+    margin-right: 20rpx;
+    color: #292929;
+    padding: 10rpx;
+    border-radius: 12rpx;
+}
+.selected.data-v-93207a4f {
+    font-weight: 700;
+    background: #068cfa;
+    color: #ffffff;
+}
+.order-list.data-v-93207a4f {
+    position: relative;
+    top: 100rpx;
+    width: 100%;
+}

@@ -1,0 +1,30 @@
+
+.announcement.data-v-afbbbf37 {
+    width: 90vw;
+    height: 80rpx;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff;
+    border-radius: 12rpx;
+    box-shadow: 0 2rpx 4rpx rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.prefix.data-v-afbbbf37 {
+    background: #068cfa;
+    color: #ffffff;
+    font-weight: 500;
+    width: 140rpx;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20rpx;
+}
+.content.data-v-afbbbf37 {
+    color: #3c3c3c;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

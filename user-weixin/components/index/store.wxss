@@ -1,0 +1,51 @@
+
+.store.data-v-bf3e9253 {
+    width: 90%;
+    height: 320rpx;
+    background-color: #ffffff;
+    border-radius: 24rpx;
+    margin-top: 20rpx;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+    display: flex;
+}
+.store.data-v-bf3e9253:active {
+    transform: scale(98%);
+}
+.store-logo.data-v-bf3e9253 {
+    width: 260rpx;
+    height: 260rpx;
+    margin-top: 30rpx;
+    margin-left: 30rpx;
+}
+.store-logo image.data-v-bf3e9253 {
+    width: 100%;
+    height: 100%;
+    border-radius: 24rpx;
+}
+.store-information.data-v-bf3e9253 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30rpx;
+    margin-left: 30rpx;
+    width: 50%;
+    height: 260rpx;
+}
+.name.data-v-bf3e9253 {
+    font-size: 34rpx;
+}
+.package-price.data-v-bf3e9253 {
+    font-size: 24rpx;
+    color: #068cfa;
+}
+.business-hour.data-v-bf3e9253 {
+    font-size: 24rpx;
+    color: #222222;
+}
+.description.data-v-bf3e9253 {
+    font-size: 24rpx;
+    color: #222222;
+    margin-top: 16rpx;
+}

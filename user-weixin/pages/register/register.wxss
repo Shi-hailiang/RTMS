@@ -1,0 +1,16 @@
+
+#register.data-v-bac4a35d {
+  background: #FFFFFF;
+  width: 80%;
+  padding: 80rpx;
+  border-radius: 24rpx;
+  box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#register-title.data-v-bac4a35d {
+  margin-top: 20rpx;
+  margin-bottom: 40rpx;
+}

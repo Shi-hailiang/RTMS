@@ -1,0 +1,1 @@
+<view class="announcement data-v-afbbbf37"><view class="prefix data-v-afbbbf37"> 公告 </view><view class="content data-v-afbbbf37" style="{{'transform:' + b}}">{{a}}</view></view>

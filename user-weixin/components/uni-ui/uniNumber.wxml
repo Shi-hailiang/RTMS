@@ -1,0 +1,1 @@
+<view class="uni-number data-v-4e7aa541"><view class="minus data-v-4e7aa541" bindtap="{{a}}">-</view><view class="number data-v-4e7aa541">{{b}}</view><view class="plus data-v-4e7aa541" bindtap="{{c}}">+</view></view>

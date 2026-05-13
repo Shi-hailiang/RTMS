@@ -1,0 +1,15 @@
+:not(not) {  
+  box-sizing: border-box;
+}
+
+page {
+	/*定义根节点的最小高度为整个窗口的高度*/
+	min-height: 100vh;
+	background-color: #F5F5F5;
+	font-size: 28rpx
+}
+
+.block {
+	width: 100%;
+	height: 400rpx;
+}

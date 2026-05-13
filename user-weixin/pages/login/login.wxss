@@ -1,0 +1,32 @@
+
+#login.data-v-e4e4508d {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#logo.data-v-e4e4508d {
+    height: 200rpx;
+    width: 200rpx;
+    margin-top: 50rpx;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50rpx;
+}
+.title.data-v-e4e4508d {
+    color: #068cfa;
+    font-size: 48rpx;
+    font-weight: 700;
+    margin-bottom: 40rpx;
+}
+#form.data-v-e4e4508d {
+    background: #ffffff;
+    width: 80%;
+    padding: 80rpx;
+    border-radius: 24rpx;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+#form-title.data-v-e4e4508d {
+    margin-top: 20rpx;
+    margin-bottom: 40rpx;
+}

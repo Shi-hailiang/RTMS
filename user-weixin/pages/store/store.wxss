@@ -1,0 +1,169 @@
+
+#store-information.data-v-c1a2745a {
+		width: 100%;
+		height: 280rpx;
+		background-color: #FFFFFF;
+		position: fixed;
+		top: 0;
+		left: 0;
+		display: flex;
+		box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+.store-logo.data-v-c1a2745a {
+		width: 200rpx;
+		height: 200rpx;
+		margin-top: 40rpx;
+		margin-left: 40rpx;
+}
+.store-logo image.data-v-c1a2745a {
+		width: 100%;
+		height: 100%;
+		border-radius: 24rpx;
+}
+.store-information.data-v-c1a2745a {
+		display: flex;
+		flex-direction: column;
+		margin-top: 30rpx;
+		margin-left: 30rpx;
+		width: 60%;
+		height: 260rpx;
+}
+.name.data-v-c1a2745a {
+		font-size: 34rpx;
+}
+.business-hour.data-v-c1a2745a {
+		font-size: 24rpx;
+		color: #222222;
+		margin-top: 24rpx;
+}
+.phone.data-v-c1a2745a {
+		font-size: 24rpx;
+		color: #222222;
+}
+.address.data-v-c1a2745a {
+		font-size: 24rpx;
+		color: #222222;
+}
+.business-license.data-v-c1a2745a {
+		font-size: 24rpx;
+		color: #d6bc2b;
+}
+.store-actions.data-v-c1a2745a {
+		display: flex;
+		gap: 20rpx;
+		margin-top: 12rpx;
+}
+.view-reviews.data-v-c1a2745a {
+		font-size: 24rpx;
+		color: #068cfa;
+}
+.business-license-image.data-v-c1a2745a {
+		width: 100%;
+		z-index: 9999;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+}
+product.data-v-c1a2745a {
+		position: fixed;
+		top: 280rpx;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: #FFFFFF;
+}
+	
+	/* 评价弹窗样式 */
+.reviews-modal.data-v-c1a2745a {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.5);
+		z-index: 9998;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+}
+.reviews-content.data-v-c1a2745a {
+		width: 90%;
+		max-height: 80vh;
+		background-color: #fff;
+		border-radius: 16rpx;
+		overflow: hidden;
+}
+.reviews-header.data-v-c1a2745a {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 30rpx;
+		border-bottom: 1rpx solid #eee;
+}
+.reviews-title.data-v-c1a2745a {
+		font-size: 32rpx;
+		font-weight: 600;
+}
+.close-btn.data-v-c1a2745a {
+		font-size: 40rpx;
+		color: #999;
+}
+.reviews-list.data-v-c1a2745a {
+		max-height: 60vh;
+		padding: 20rpx;
+}
+.review-item.data-v-c1a2745a {
+		padding: 20rpx 0;
+		border-bottom: 1rpx solid #eee;
+}
+.review-user.data-v-c1a2745a {
+		display: flex;
+		align-items: center;
+}
+.user-avatar.data-v-c1a2745a {
+		width: 60rpx;
+		height: 60rpx;
+		border-radius: 50%;
+}
+.user-info.data-v-c1a2745a {
+		flex: 1;
+		margin-left: 16rpx;
+}
+.user-name.data-v-c1a2745a {
+		font-size: 26rpx;
+		color: #333;
+}
+.review-stars.data-v-c1a2745a {
+		font-size: 24rpx;
+		color: #ddd;
+}
+.review-stars .active.data-v-c1a2745a {
+		color: #068cfa;
+}
+.review-date.data-v-c1a2745a {
+		font-size: 22rpx;
+		color: #999;
+}
+.review-content.data-v-c1a2745a {
+		font-size: 26rpx;
+		color: #333;
+		margin-top: 16rpx;
+		display: block;
+}
+.review-images.data-v-c1a2745a {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10rpx;
+		margin-top: 16rpx;
+}
+.review-images image.data-v-c1a2745a {
+		width: 150rpx;
+		height: 150rpx;
+		border-radius: 8rpx;
+}
+.no-reviews.data-v-c1a2745a {
+		text-align: center;
+		padding: 60rpx 0;
+		color: #999;
+}
